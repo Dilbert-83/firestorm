@@ -1,1 +1,1 @@
-# firestorm
+Open index.html locally. Upload all files to the repository root. Enable GitHub Pages from main / root only after review. The site is public when published. No tracking scripts. All original PDF navigation links retained; the advertising Buy Now graphic has no source link and is not a real purchase button.

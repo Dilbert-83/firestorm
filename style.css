@@ -1,0 +1,1 @@
+html,body{margin:0;background:#111;color:#eee;font-family:system-ui,sans-serif}main{max-width:1100px;margin:auto}.slide{position:relative;width:100%}.slide img{display:block;width:100%;height:auto}.hotspot{position:absolute;display:block;cursor:pointer}.hotspot:focus-visible{outline:3px solid #168aff;outline-offset:2px}
